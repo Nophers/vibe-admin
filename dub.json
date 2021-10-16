@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Koni"
+	],
+	"copyright": "Copyright © 2021, Koni",
+	"dependencies": {
+		"vibe-d": "~>0.9"
+	},
+	"description": "Backend Server",
+	"license": "proprietary",
+	"name": "server"
+}

@@ -9,7 +9,7 @@ import std.functional : toDelegate;
 
 bool checkPassword(string user, string password) 
 {
-	return user == "admin" && password == "password";
+	return user == "koni" && password == "r4MKC(uu2;M:?7/ggRSDVvvgtighwDOFIJF";
 }
 
 void main() {
